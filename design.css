@@ -1,6 +1,6 @@
 body{background-color: #E19A0B;}
 h1{font-family: Apple Chancery; text-align: center; font-size: 60pt;border-style: groove;  border-width: 10px;border-color: #91160E ;padding: 10px; border-right: 10px;}
 p{font-family: Apple Chancery; text-align: center; font-size: 48pt;}
-a{font-family: Apple Chancery;text-align: left; font-size: 18pt; color: black;}
+a{font-family: Apple Chancery;text-align: left; font-size: 18pt; color: black;display: block; text-align: center;}
 img{display: block;margin-left: auto;margin-right: auto;width: 15%;}
 img{border-style: groove; border-width: 5px;border-color: #DEFF00;}
